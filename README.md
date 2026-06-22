@@ -1,16 +1,12 @@
-## Hi there 👋
+## João Miguel A. Costa
+* Pronomes: Ele/Dele
 
-<!--
-**joaocostax/joaocostax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Atualmente estou trabalhando em projetos de desenvolvimento de software e automação.
+  
+* 👯 Estou procurando colaborar em projetos open source e iniciativas inovadoras.
+* 🤔 Estou buscando ajuda para aprimorar minhas habilidades em arquitetura de sistemas e DevOps.
+* 💬 Pergunte-me sobre programação, tecnologia, desenvolvimento web e automação.
+*  Como entrar em contato comigo: [jmacosta2007@gmail.com](mailto:jmacosta2007@gmail.com)
+* ⚡ Curiosidade: Adoro transformar ideias em soluções práticas através da tecnologia.
